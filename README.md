@@ -1,9 +1,11 @@
 # Damian Pickett
 
-Building [SmartSurvey](https://www.smartsurvey.co.uk). Product marketer, builder and storyteller from Manchester.
+Building [SmartSurvey](https://www.smartsurvey.co.uk). Product marketer, builder and storyteller from Manchester, with a broadcast journalism background.
 
-Outside work I run [Something Wonderful Studios](https://somethingwonderfulstudios.com), where I make small, finished technology products I want to use myself. The current one is Bloom, a native iOS wellbeing app where a characterful plant reflects the shape of your day.
+On my own time I make small things I want to use myself:
 
-Writing and other work lives at [damianpickett.com](https://damianpickett.com).
+- **[The DJ](https://github.com/dp-1997/daily)**, a morning paper that writes itself. Every day at six a Claude editor reads 55 free-to-read sources and publishes what matters to me, two sentences and a link at a time. Live at [daily.damianpickett.com](https://daily.damianpickett.com).
+- **Bloom**, an iPhone app where a small plant with real character reflects the shape of your day, from the signals the phone already trusts. In TestFlight.
+- **[Something Wonderful Studios](https://somethingwonderfulstudios.com)**, the name I put on the joyful ones. A side project, not a company.
 
-Most code here is private while it is in progress. The sites carry the fuller story.
+The fuller story, and my work, is at [damianpickett.com](https://damianpickett.com). Most code here is private while it is in progress; the sites carry the story.
